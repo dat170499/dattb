@@ -646,7 +646,7 @@ li {
   position: relative;
 }
 
-.special_offers .cover_special_offers::before {
+/* .special_offers .cover_special_offers::before {
   content: "";
   width: 100%;
   height: 100%;
@@ -657,7 +657,7 @@ li {
   top: 0;
   left: 100%;
   margin-left: -15px;
-}
+} */
 
 .cover_special_offers .left {
   flex: 0.333;
