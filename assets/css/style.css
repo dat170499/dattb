@@ -11,9 +11,10 @@ html {
 }
 
 body {
-  background-image: url(/assets/img/bg_1.jpg);
+  background-image: url("../img/bg_1.jpg");
   height: 100vh;
-  background-repeat: none;
+
+  background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -660,7 +661,7 @@ li {
 
 .cover_special_offers .left {
   flex: 0.333;
-  background-image: url(/assets/img/bg_1.jpg);
+  background-image: url("../img/bg_1.jpg");
   background-size: cover;
   height: 273px;
 }
@@ -728,7 +729,7 @@ li {
   height: 100%;
   background-size: cover;
   background-position: center;
-  background-image: url(/assets/img/about.jpg);
+  background-image: url("../img/about.jpg");
   background-repeat: no-repeat;
 }
 
@@ -902,7 +903,7 @@ li {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background-image: url(/assets/img/person_1.jpg);
+  background-image: url("../img/person_1.jpg");
   background-size: contain;
 }
 
